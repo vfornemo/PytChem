@@ -17,3 +17,5 @@ md*.csv
 *.gif
 MD-flavie.ipynb
 moleculardynamics-dijana.ipynb
+dev/
+dev/*
