@@ -17,5 +17,6 @@ md*.csv
 *.gif
 MD-flavie.ipynb
 moleculardynamics-dijana.ipynb
+Harmonic_Oscillator-Dijana.ipynb
 dev/
 dev/*
